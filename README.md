@@ -1,14 +1,7 @@
 # Team Rude AI Lab
 
-Base monorepo scaffold for industrial AI automation initiatives.
+Repositorio base para iniciativas de automatización industrial con IA.
 
-## Included foundations
+## Documento de referencia
 
-- Core domains: `apps/`, `services/`, `ai/`, `libs/`, `infra/`, `tests/`.
-- Architecture and operations docs under `docs/`.
-- Initial CI pipeline at `.github/workflows/ci.yml`.
-- Starter templates for ADRs, runbooks, data contracts, and model cards.
-
-## Reference
-
-- Detailed proposal: `PROJECT_STRUCTURE_PROPOSAL.md`.
+- Ver propuesta de estructura profesional en `PROJECT_STRUCTURE_PROPOSAL.md`.
