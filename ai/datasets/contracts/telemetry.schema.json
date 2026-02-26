@@ -1,0 +1,12 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "title": "TelemetryEvent",
+  "type": "object",
+  "required": ["asset_id", "timestamp", "metrics"],
+  "properties": {
+    "asset_id": {"type": "string"},
+    "timestamp": {"type": "string", "format": "date-time"},
+    "metrics": {"type": "object"}
+  },
+  "additionalProperties": false
+}
